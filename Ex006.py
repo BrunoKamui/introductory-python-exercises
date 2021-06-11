@@ -1,4 +1,4 @@
-#Usar as estruturas FOR e WHILE para imprimir a tabuada do número 3.
+#Ex006: Usar as estruturas FOR e WHILE para imprimir a tabuada do número 3.
 
 #FOR
 

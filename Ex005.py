@@ -1,4 +1,4 @@
-#Usar as estruturas FOR e WHILE para ler 5 notas e informar a média
+#Ex005: Usar as estruturas FOR e WHILE para ler 5 notas e informar a média
 
 #FOR
 
